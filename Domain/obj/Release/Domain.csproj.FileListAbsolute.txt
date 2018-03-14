@@ -1,0 +1,9 @@
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Domain\bin\Release\Domain.dll
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Domain\bin\Release\Domain.pdb
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Domain\bin\Release\LINQtoCSV.dll
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Domain\bin\Release\log4net.dll
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Domain\bin\Release\log4net.xml
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Domain\obj\Release\Domain.dll
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Domain\obj\Release\Domain.pdb
