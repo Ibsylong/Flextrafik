@@ -1,0 +1,14 @@
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\bin\Release\Logic.dll.config
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\bin\Release\Logic.dll
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\bin\Release\Logic.pdb
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\bin\Release\DataAccess.dll
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\bin\Release\Domain.dll
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\bin\Release\log4net.dll
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\bin\Release\DataAccess.pdb
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\bin\Release\DataAccess.dll.config
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\bin\Release\Domain.pdb
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\bin\Release\log4net.xml
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\obj\Release\Logic.csprojResolveAssemblyReference.cache
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\obj\Release\Logic.csproj.CoreCompileInputs.cache
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\obj\Release\Logic.dll
+C:\Users\bruger\Documents\Visual Studio 2017\Projects\Fynbus\Flexcel_Fynbus\Kode\Flexcel\Logic\obj\Release\Logic.pdb
